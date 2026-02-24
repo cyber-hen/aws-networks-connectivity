@@ -85,19 +85,15 @@ I practiced reading and reasoning about:
 
 ---
 
-
 ## 📸 Screenshots
 
 Screenshots are stored in the `screenshots/` folder.
 
 Suggested files:
 
-- `screenshots/vpc-layout.png` – VPC and subnet layout  
-- `screenshots/route-tables.png` – Route table configuration  
-- `screenshots/connectivity-test.png` – Successful connectivity test  
-- `screenshots/security-rules.png` – Security Group / NACL rules  
-
-You can embed one like this:
+- '[Route Tables](screenshots/vpc-layout.png)' – VPC and subnet layout  
+- '[Route Tables](screenshots/route-tables.png)' – Route table configuration  
+- '[Route Tables](screenshots/connectivity-test.png)' – Successful connectivity test  
+- '[Route Tables](screenshots/security-rules.png)' – Security Group / NACL rules  
 
 
-'[Route Tables](screenshots/route-tables.png)'
