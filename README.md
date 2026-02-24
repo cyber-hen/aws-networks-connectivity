@@ -91,9 +91,9 @@ Screenshots are stored in the `screenshots/` folder.
 
 Suggested files:
 
-- '[Route Tables](screenshots/vpc-layout.png)' – VPC and subnet layout  
+- '[VPC Layout](screenshots/vpc-layout.png)' – VPC and subnet layout  
 - '[Route Tables](screenshots/route-tables.png)' – Route table configuration  
-- '[Route Tables](screenshots/connectivity-test.png)' – Successful connectivity test  
-- '[Route Tables](screenshots/security-rules.png)' – Security Group / NACL rules  
-
+- '[Connectivity Test](screenshots/connectivity-test.png)' – Successful connectivity test  
+- '[Security Group](screenshots/security-rules.png)' – Security Group
+- '[NACL Rules](screenshots/nacl.png)' – Network Access Control List 
 
